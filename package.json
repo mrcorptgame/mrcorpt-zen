@@ -1,0 +1,14 @@
+{
+  "name": "mrcorpt-zen",
+  "description": "toggle extraneous UI elements (mrcorpt.js plugin)",
+  "version": "1.0.0",
+  "main": "zen.js",
+  "keywords": [
+    "mrcorpt",
+    "plugin",
+    "clutter",
+    "distraction"
+  ],
+  "dependencies": {},
+  "license": "MIT"
+}
